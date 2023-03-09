@@ -1,9 +1,0 @@
-/dist/
-/obj/
-/bin/
-/Migrations
-appsettings.Development.json
-ContactBook.csproj
-ContactBook.csproj.user
-/Properties
-/vs
