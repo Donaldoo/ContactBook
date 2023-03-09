@@ -5,8 +5,9 @@
     "\\ContactBook\\Areas",
     "\\ContactBook\\Areas\\Identity",
     "\\ContactBook\\Areas\\Identity\\Pages",
+    "\\ContactBook\\Controllers",
     "\\ContactBook\\Data"
   ],
-  "SelectedNode": "\\ContactBook",
+  "SelectedNode": "\\ContactBook\\Controllers\\ContactsController.cs",
   "PreviewInSolutionExplorer": false
 }

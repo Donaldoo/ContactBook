@@ -1,4 +1,6 @@
-﻿namespace ContactBook.Models
+﻿using ContactBook.Models;
+
+namespace ContactBook.Models
 {
     public class Contacts
     {
@@ -9,4 +11,7 @@
         public string Phone { get; set; }
         public string Address { get; set; }
     }
+
 }
+
+
